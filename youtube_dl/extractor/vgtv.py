@@ -18,6 +18,7 @@ class VGTVIE(XstreamIE):
 
     _HOST_TO_APPNAME = {
         'vgtv.no': 'vgtv',
+        'tv.vg.no': 'vgtv',
         'bt.no/tv': 'bttv',
         'aftenbladet.no/tv': 'satv',
         'fvn.no/fvntv': 'fvntv',
